@@ -21,6 +21,8 @@ public class Main {
 		System.out.println("PERIMETER = "+ret.Perimeter());
 		System.out.println("DIAGONAL = "+ret.Diagonal());
 	
+		sc.close();
+		
 	}
 
 }
